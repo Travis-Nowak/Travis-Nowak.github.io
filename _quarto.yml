@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "About Me"
+  title: "Travis Nowak Projects"
   navbar:
     left:
       - href: index.qmd
