@@ -1,11 +1,9 @@
 ---
-title: "Test 123"
+title: "About Me"
 ---
 
-This is a Quarto website.
+Travis Nowak is an Honours Finance student specializing in private venture markets currently in his final year at the University of Alberta.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+He has a keen interest in capital markets and brings experience in a wide array of industries including Asset Management, Economic Policy, and Equity Research where he currently works.
 
-```{r}
-1 + 1
-```
+His long-term goal is to take insights from data science, which he has recently picked up, and apply them to M&A and Private Equity.
