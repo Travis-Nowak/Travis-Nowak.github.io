@@ -2,9 +2,7 @@
 title: "About Me"
 ---
 
-About this site
-
-Travis Nowak is an Honours Finance student currently in his final year at the University of Alberta.
+Travis Nowak is an Honours Finance student specializing in private venture markets currently in his final year at the University of Alberta.
 
 He has a keen interest in capital markets and brings experience in a wide array of industries including Asset Management, Economic Policy, and Equity Research where he currently works.
 
