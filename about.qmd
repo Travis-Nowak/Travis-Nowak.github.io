@@ -2,10 +2,22 @@
 title: "About Me"
 ---
 
-Travis Nowak is an Honours Finance student specializing in private venture markets currently in his final year at the University of Alberta.
+:::: {style="display: flex; align-items: center;"}
+<img src="images/headshot.png" alt="Profile Picture" style="width: 235px; height: auto; margin-right: 20px; border: 2px solid #000; border-radius: 8px;"/>
 
-He has a keen interest in capital markets and brings experience in a wide array of industries including Asset Management, Economic Policy, and Equity Research where he currently works.
+<div style="text-align: justify;">
 
-His current focus is to take insights from data science, which he has recently picked up, and apply them to M&A and Private Equity.
+       
+<p>
+  Travis Nowak is an Honours Finance student specializing in private venture markets currently in his final year at the University of Alberta.
+</p>
+<p>
+  He has a keen interest in capital markets and brings experience in a wide array of industries including Asset Management, Economic Policy, and Equity Research where he currently works.
+</p>
+<p>
+  His current focus is to take insights from data science, which he has recently picked up, and apply them to M&A and Private Equity.
+</p>
 
-![A picture of me](images/headshot.png){.center}
+
+</div>
+::::
